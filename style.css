@@ -56,3 +56,15 @@ li {
     font-size: 16px;
     font-style: italic;
 }
+@media (max-width: 390px) {
+    .wrapper {
+        width: 300px;
+        height: auto;
+    }
+}
+@media (max-width: 325px) {
+    .wrapper {
+        width: 280px;
+        height: auto;
+    }
+}
